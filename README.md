@@ -1,10 +1,12 @@
+![Botany](https://camo.githubusercontent.com/3922405d4b6eb5a65267a3b2b24e51831500b3770c3eb1d2ced9156038e84a95/68747470733a2f2f74696c64652e746f776e2f7e637572696f757365722f626f74616e792e706e67)
+
 # Botany-Web 🌿
 
 **Welcome to Botany-Web – your very own terminal gardening game webserver powered by Docker, gotty, and Tailscale!**
 
 ## What Is Botany-Web?
 
-Botany-Web is a Dockerized terminal webserver that lets you play [Botany](https://github.com/jifunks/botany). It uses [gotty](https://github.com/yudai/gotty) to expose your docker terminal as a web application. I’ve combined it with [Tailscale+SWAG](https://www.youtube.com/watch?v=uznDiFPlvvM) to securely connect to the terminal webserver on my own domain.
+Botany-Web is a Dockerized terminal webserver that lets you play [Botany](https://github.com/jifunks/botany) in your browser. It uses [gotty](https://github.com/yudai/gotty) to expose your docker terminal as a web application. I’ve combined it with [Tailscale+SWAG](https://www.youtube.com/watch?v=uznDiFPlvvM) to securely connect to the terminal webserver on my own domain.
 
 ---
 
