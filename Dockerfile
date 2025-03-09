@@ -25,4 +25,4 @@ RUN curl -L https://github.com/yudai/gotty/releases/download/v2.0.0-alpha.3/gott
 USER botany
 
 EXPOSE 8080
-ENTRYPOINT ["gotty", "--port", "8080", "--permit-write", "python3", "botany.py"]
+ENTRYPOINT ["gotty", "--port", "8080", "--title-format", "🌿 Botany-Web", "--permit-write", "python3", "botany.py"]
