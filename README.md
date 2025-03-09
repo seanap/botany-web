@@ -44,7 +44,7 @@ docker compose up -d
 
 ### 2. Permissions
 Modify your permissions on the data folder on host
-```
+```python
 sudo chown -R 1000:1000 ~/docker/botany-web/data
 sudo chmod -R 755 ~/docker/botany-web/data
 ```
